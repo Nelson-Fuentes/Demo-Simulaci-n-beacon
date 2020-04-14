@@ -1,0 +1,4 @@
+dni:
+  url: https://eldni.com/buscar-por-dni
+  token: ihWK0hL1d45kgUIZEI2edFKxJzoTIc3LiNCHFvCC
+  enctype: multipart/form-data
